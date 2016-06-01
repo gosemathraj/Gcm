@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "447383789809",
+    "project_id": "clear-ranger-129115"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447383789809:android:d63450106c02c094",
+        "android_client_info": {
+          "package_name": "com.gosemathraj.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtwew3uZo_ZHMYQaotsJWnS5lbJO98_lA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
